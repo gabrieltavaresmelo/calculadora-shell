@@ -1,3 +1,4 @@
+#!/bin/bash
 
 echo "Bem-vindo a calculadora de somar"
 
